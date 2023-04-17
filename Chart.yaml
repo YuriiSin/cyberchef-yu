@@ -1,0 +1,14 @@
+apiVersion: v2
+name: common
+description: Cyberchef by Yurii
+type: library
+version: 4.5.2
+kubeVersion: ">=1.16.0-0"
+keywords:
+  - k8s-at-home
+  - common
+home: https://github.com/k8s-at-home/library-charts/tree/main/stable/common #https://github.com/YuriiSin/cyberchef-yu
+maintainers:
+  - name: bjw-sdfgdfgdfgdfgd
+    email: mdgfdfgdgdfgde@bjw-s.dev
+  
