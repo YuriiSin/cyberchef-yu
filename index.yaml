@@ -5,7 +5,7 @@ entries:
     created: "2023-04-18T01:00:05.1174389+03:00"
     description: Cyberchef by Yurii
     digest: 93811c6081a3ffc9f75be78f9e546f8ca4cd1c39c1c768f53b968224b8664cc5
-    home: https://github.com/k8s-at-home/library-charts/tree/main/stable/common
+    home: https://github.com/YuriiSin/cyberchef-yu
     keywords:
     - k8s-at-home
     - common
